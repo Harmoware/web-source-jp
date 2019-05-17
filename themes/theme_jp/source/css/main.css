@@ -193,7 +193,7 @@ div#id_main_conte {
 /* nav */
 .menubar {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   height: 20%;
 }
 ul.menu {
