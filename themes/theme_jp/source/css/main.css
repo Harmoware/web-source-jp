@@ -208,6 +208,7 @@ ul.menu {
 }
 ul.menu {
   display: flex;
+  justify-content: flex-end;
 }
 .mobile-child {
   display: none;
