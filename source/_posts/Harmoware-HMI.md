@@ -23,3 +23,5 @@ Harmoware-HMIでは、マルチモーダル対話シナリオ実現のためMMDA
 利用事例ができましたら、ぜひお知らせください。
 
 なお、本ソフトウェアは、JST OPERA の支援の下、人間機械協奏技術コンソーシアム (HMHS: Human Machine Harmonization System) (http://hmhs.jp) において開発されたものです。
+
+<a href="https://github.com/Harmoware/Harmoware-HMI"> Harmoware-HMI GitHub リポジトリ </A>
